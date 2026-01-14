@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+chromadb
+python-dotenv
+openai
+beautifulsoup4
+pandas
+requests
+flask
